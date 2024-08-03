@@ -1,0 +1,42 @@
+[
+	{
+		"name": "North Dakota",
+		"entry": "North Dakota",
+		"type": "State",
+		"location_id": "6531627",
+		"tags":[6531557],
+		"is_private": false
+	},
+	{
+		"name": "South Dakota",
+		"entry": "South Dakota",
+		"type": "State",
+		"location_id": "6531627",
+		"tags":[6531557],
+		"is_private": false
+	},
+	{
+		"name": "Nebraska",
+		"entry": "Nebraska",
+		"type": "State",
+		"location_id": "6531627",
+		"tags":[6531557],
+		"is_private": false
+	},
+	{
+		"name": "Kansas",
+		"entry": "Kansas",
+		"type": "State",
+		"location_id": "6531627",
+		"tags":[6531557],
+		"is_private": false
+	},
+	{
+		"name": "Missouri",
+		"entry": "Missouri",
+		"type": "State",
+		"location_id": "6531627",
+		"tags":[6531557],
+		"is_private": false
+	}
+]

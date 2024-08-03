@@ -1,0 +1,17 @@
+{
+  "name": "kanka-automation",
+  "version": "1.0.0",
+  "description": "automation of kanka using kanka api",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron LaBeau",
+  "license": "MIT",
+  "bin": {
+    "kanka": "./bin/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.3"
+  }
+}

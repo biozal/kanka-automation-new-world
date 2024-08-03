@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Little Rock",
+        "entry": "Little Rock",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Fort Smith",
+        "entry": "Fort Smith",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Fayetteville",
+        "entry": "Fayetteville",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Springdale",
+        "entry": "Springdale",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Jonesboro",
+        "entry": "Jonesboro",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Rogers",
+        "entry": "Rogers",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Conway",
+        "entry": "Conway",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "North Little Rock",
+        "entry": "North Little Rock",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Bentonville",
+        "entry": "Bentonville",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Pine Bluff",
+        "entry": "Pine Bluff",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    }
+]

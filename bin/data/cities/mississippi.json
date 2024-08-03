@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Jackson",
+        "entry": "Jackson",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Gulfport",
+        "entry": "Gulfport",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Southaven",
+        "entry": "Southaven",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Biloxi",
+        "entry": "Biloxi",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Hattiesburg",
+        "entry": "Hattiesburg",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Olive Branch",
+        "entry": "Olive Branch",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Tupelo",
+        "entry": "Tupelo",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Meridian",
+        "entry": "Meridian",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Greenville",
+        "entry": "Greenville",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Horn Lake",
+        "entry": "Horn Lake",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    }
+]

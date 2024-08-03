@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Charlotte",
+        "entry": "Charlotte",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Raleigh",
+        "entry": "Raleigh",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Greensboro",
+        "entry": "Greensboro",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Durham",
+        "entry": "Durham",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Winston-Salem",
+        "entry": "Winston-Salem",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Fayetteville",
+        "entry": "Fayetteville",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Cary",
+        "entry": "Cary",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Wilmington",
+        "entry": "Wilmington",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "High Point",
+        "entry": "High Point",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Greenville",
+        "entry": "Greenville",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    }
+]

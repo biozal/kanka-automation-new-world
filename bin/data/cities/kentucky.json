@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Louisville",
+        "entry": "Louisville",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Lexington",
+        "entry": "Lexington",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Bowling Green",
+        "entry": "Bowling Green",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Owensboro",
+        "entry": "Owensboro",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Covington",
+        "entry": "Covington",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Richmond",
+        "entry": "Richmond",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Georgetown",
+        "entry": "Georgetown",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Florence",
+        "entry": "Florence",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Hopkinsville",
+        "entry": "Hopkinsville",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    },
+    {
+        "name": "Nicholasville",
+        "entry": "Nicholasville",
+        "type": "City",
+        "location_id": "",
+        "tags": [
+            6524195
+        ],
+        "is_private": false
+    }
+]
