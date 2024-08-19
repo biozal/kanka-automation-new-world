@@ -1,11 +1,9 @@
 #!/usr/bin/env node
-const { getCampaignId } = require('./campaign.js');
-const axios = require('axios');
+const { createLocation } = require('./location');
 
 // Call the function
-async function main () {
-    const id = await getCampaignId();
-    console.log(id);
+async function main() {
+  await createLocation('bin/data/cities/test.json');
 }
 
 main();

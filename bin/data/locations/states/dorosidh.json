@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Washington",
+    "entry": "Washington",
+    "type": "State",
+    "location_id": "6531587",
+    "tags": [6531557],
+    "is_private": false
+  },
+  {
+    "name": "Oregon",
+    "entry": "Oregon",
+    "type": "State",
+    "location_id": "6531587",
+    "tags": [6531557],
+    "is_private": false
+  },
+  {
+    "name": "California",
+    "entry": "California",
+    "type": "State",
+    "location_id": "6531587",
+    "tags": [6531557],
+    "is_private": false
+  },
+  {
+    "name": "Idaho",
+    "entry": "Idaho",
+    "type": "State",
+    "location_id": "6531587",
+    "tags": [6531557],
+    "is_private": false
+  },
+  {
+    "name": "Nevada",
+    "entry": "Nevada",
+    "type": "State",
+    "location_id": "6531587",
+    "tags": [6531557],
+    "is_private": false
+  },
+  {
+    "name": "Arizona",
+    "entry": "Arizona",
+    "type": "State",
+    "location_id": "6531587",
+    "tags": [6531557],
+    "is_private": false
+  },
+  {
+    "name": "New Mexico",
+    "entry": "New Mexico",
+    "type": "State",
+    "location_id": "6531587",
+    "tags": [6531557],
+    "is_private": false
+  }
+]

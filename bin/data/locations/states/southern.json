@@ -1,0 +1,132 @@
+[
+  {
+    "file": "alabama",
+    "data": {
+      "name": "Alabama",
+      "entry": "Alabama",
+      "type": "State",
+      "location_id": "6523817",
+      "tags": [
+        6531557
+      ],
+      "is_private": false
+    }
+  },
+  {
+    "file": "arkansas.json",
+    "data": {
+      "name": "Arkansas",
+      "entry": "Arkansas",
+      "type": "State",
+      "location_id": "6523817",
+      "tags": [
+        6531557
+      ],
+      "is_private": false
+    }
+  },
+  {
+    "file": "florida.json",
+    "data": {
+      "name": "Florida",
+      "entry": "Florida",
+      "type": "State",
+      "location_id": "6523817",
+      "tags": [
+        6531557
+      ],
+      "is_private": false
+    }
+  },
+  {
+    "file": "kentucky.json",
+    "data:": {
+      "name": "Kentucky",
+      "entry": "Kentucky",
+      "type": "State",
+      "location_id": "6523817",
+      "tags": [
+        6531557
+      ],
+      "is_private": false
+    }
+  },
+  {
+    "file": "louisiana.json",
+    "data": {
+      "name": "Louisiana",
+      "entry": "Louisiana",
+      "type": "State",
+      "location_id": "6523817",
+      "tags": [
+        6531557
+      ],
+      "is_private": false
+    }
+  },
+  {
+    "file": "mississippi.json",
+    "data": {
+      "name": "Mississippi",
+      "entry": "Mississippi",
+      "type": "State",
+      "location_id": "6523817",
+      "tags": [
+        6531557
+      ],
+      "is_private": false
+    }
+  },
+  {
+    "file": "north-carolina.json",
+    "data": {
+      "name": "North Carolina",
+      "entry": "North Carolina",
+      "type": "State",
+      "location_id": "6523817",
+      "tags": [
+        6531557
+      ],
+      "is_private": false
+    }
+  },
+  {
+    "file": "south-carolina.json",
+    "data": {
+      "name": "South Carolina",
+      "entry": "South Carolina",
+      "type": "State",
+      "location_id": "6523817",
+      "tags": [
+        6531557
+      ],
+      "is_private": false
+    }
+  },
+  {
+    "file": "tennessee.json",
+    "data": {
+      "name": "Tennessee",
+      "entry": "Tennessee",
+      "type": "State",
+      "location_id": "6523817",
+      "tags": [
+        6531557
+      ],
+      "is_private": false
+    }
+  },
+  {
+    "file": "west-virginia.json",
+    "data": {
+      "name": "West Virginia",
+      "entry": "West Virginia",
+      "type": "State",
+      "location_id": "6523817",
+      "tags": [
+        6531557
+      ],
+      "is_private": false
+    }
+  }
+]

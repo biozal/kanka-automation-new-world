@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Birmingham",
+    "entry": "Birmingham",
+    "type": "City",
+    "location_id": "",
+    "tags": [6523817],
+    "is_private": false
+  },
+  {
+    "name": "Montgomery",
+    "entry": "Montgomery",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Mobile",
+    "entry": "Mobile",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Huntsville",
+    "entry": "Huntsville",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Tuscaloosa",
+    "entry": "Tuscaloosa",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Hoover",
+    "entry": "Hoover",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Dothan",
+    "entry": "Dothan",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Auburn",
+    "entry": "Auburn",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Decatur",
+    "entry": "Decatur",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Madison",
+    "entry": "Madison",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  }
+]

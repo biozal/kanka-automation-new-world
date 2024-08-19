@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Houston",
+    "entry": "Houston",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "San Antonio",
+    "entry": "San Antonio",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Dallas",
+    "entry": "Dallas",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Austin",
+    "entry": "Austin",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Fort Worth",
+    "entry": "Fort Worth",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "El Paso",
+    "entry": "El Paso",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Arlington",
+    "entry": "Arlington",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Corpus Christi",
+    "entry": "Corpus Christi",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Plano",
+    "entry": "Plano",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Laredo",
+    "entry": "Laredo",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Lubbock",
+    "entry": "Lubbock",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Garland",
+    "entry": "Garland",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Irving",
+    "entry": "Irving",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Amarillo",
+    "entry": "Amarillo",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Grand Prairie",
+    "entry": "Grand Prairie",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  }
+]

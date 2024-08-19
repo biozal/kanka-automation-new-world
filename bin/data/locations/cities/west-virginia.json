@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Charleston",
+    "entry": "Charleston",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Huntington",
+    "entry": "Huntington",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Morgantown",
+    "entry": "Morgantown",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Parkersburg",
+    "entry": "Parkersburg",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Wheeling",
+    "entry": "Wheeling",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Weirton",
+    "entry": "Weirton",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Fairmont",
+    "entry": "Fairmont",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Martinsburg",
+    "entry": "Martinsburg",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  }
+]

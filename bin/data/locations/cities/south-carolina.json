@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Charleston",
+    "entry": "Charleston",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Columbia",
+    "entry": "Columbia",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "North Charleston",
+    "entry": "North Charleston",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Mount Pleasant",
+    "entry": "Mount Pleasant",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Rock Hill",
+    "entry": "Rock Hill",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Greenville",
+    "entry": "Greenville",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Summerville",
+    "entry": "Summerville",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Sumter",
+    "entry": "Sumter",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Goose Creek",
+    "entry": "Goose Creek",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  },
+  {
+    "name": "Hilton Head Island",
+    "entry": "Hilton Head Island",
+    "type": "City",
+    "location_id": "",
+    "tags": [6524195],
+    "is_private": false
+  }
+]
